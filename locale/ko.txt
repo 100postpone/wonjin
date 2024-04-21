@@ -1,0 +1,242 @@
+#: locale=ko
+
+## Tour
+
+### Cookies Policy
+CookiesPolicy_363AAFE9_1013_053F_41B1_72AFE51182A2.url = https://www.cookiepolicygenerator.com/live.php?token=sGH0VejtOkqahLOF5eD2ZOqJTiVFeaAz
+
+### Description
+
+### Title
+tour.name = 원진성형외과
+
+## Skin
+
+### Button
+Button_15E1F3C9_1A93_17B5_41BA_154FC34F153F.label = 층별안내
+Button_15E1F3C9_1A93_17B5_41BA_154FC34F153F_mobile.label = 층별안내
+Button_15F16807_1A93_10BC_41B6_D25831AED2FA.label = 오시는 길
+Button_15F16807_1A93_10BC_41B6_D25831AED2FA_mobile.label = 오시는 길
+Button_3F774B1C_32B6_5FC9_41AA_D3B03FCBAF62.label = 층별안내
+Button_3F774B1C_32B6_5FC9_41AA_D3B03FCBAF62_mobile.label = 층별안내
+Button_8EDCAF4F_A51C_182A_41B6_DA233DCA8C05.label = 공유하기
+Button_90D657DD_A52C_082E_41C6_80DF02944A7B.label = 공유하기
+
+### Label
+Label_24AA4AFE_2843_CF88_41AB_C7B5990E6737.text = VR Panorama
+Label_3826F52C_2844_3A88_41C0_9C0B186F06B9.text = Photo
+Label_68781EB5_39B3_F947_41B0_371A747DD14A.text = Photo
+Label_737EC3B5_39B2_4F44_4197_B6CDF8D56616.text = VR Panorama
+Label_752902D4_39B7_CEC5_41AF_B5279FC64D22.text = Photo
+Label_76C9F374_39BE_CFC4_41AA_FF4EA648B92F.text = VR Panorama
+Label_902B532F_A56C_086A_41E0_B8AC77838F98.text = SHARE
+Label_902B532F_A56C_086A_41E0_B8AC77838F98_mobile.text = SHARE
+
+## Media
+
+### Title
+album_A1424649_900D_F83B_41B9_50CF3128419B.label = 원장님 프로필
+album_A1424649_900D_F83B_41B9_50CF3128419B_0.label = 강문석 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_1.label = 강진석 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_10.label = 손유리 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_11.label = 신경필 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_12.label = 오세영 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_13.label = 원기정 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_14.label = 유영선 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_15.label = 이선구 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_16.label = 이영롱 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_17.label = 이주헌 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_18.label = 최수경 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_19.label = 최준호 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_2.label = 김규희 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_20.label = 한준 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_21.label = 현선지 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_22.label = 호익진 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_23.label = 황윤주 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_3.label = 김영은 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_4.label = 김용배 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_5.label = 김지수 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_6.label = 박장우 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_7.label = 박종철 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_8.label = 박찬영 원장 복사
+album_A1424649_900D_F83B_41B9_50CF3128419B_9.label = 석효현 원장 복사
+map_2197C95D_32F2_CC61_41C2_82D19F597E01.label = 14
+map_5524CD35_7090_F547_41D2_0F834A0D9CE3.label = 13
+map_56DAD933_7090_FD5C_41D8_CFC0C19AD7CC.label = 12
+map_5A8CFB03_7090_7D43_41D6_A24369495774.label = 16
+map_5CF112F5_7090_6CC7_41D4_15D2DDA59418.label = 15
+map_682753EE_758A_0E61_41D9_573B2ABABDA5.label = 17
+map_6DCDA99F_7A9F_C1DD_41DB_C1D74D3CDFF0.label = 18
+panorama_081801C5_29CC_7897_4188_C6AAD425E8FE.label = 피부과 데스크
+panorama_2205980B_2DC2_900D_41B3_C8E63465310A.label = 피부과 통로2
+panorama_3EA40533_2E43_701D_41C2_7673C7E6F01B.label = 파우더룸
+panorama_64AE8C0A_7B89_B2A0_41D5_D5E81FD80261.label = 쁘띠센터 데스크
+panorama_64E2E66D_7B9A_DF60_41BC_8AECB4BCCCEF.label = 13F 데스크 right
+panorama_8B44805D_99BC_FCBD_41DF_7D62291B733D.label = 상담센터 통로1
+panorama_8DD72EED_99BD_8EB6_41E2_75C67AAD474C.label = 초음파실
+panorama_8F1C7172_99B5_9C87_41BE_0F1F5E8D1F75.label = 검사실 1
+panorama_A086FB7C_903B_88D9_41DD_3EB407AAC1E6.label = 피부과 로비
+panorama_A0E20CFD_903A_89DB_41DD_D7BFB2BCE301.label = 로비B
+panorama_A257C8BA_9006_8859_41D2_23C54861B9D0.label = 18F 통로 2
+panorama_A28BB952_900B_8829_41DD_387442464CA3.label = 수술센터 복도
+panorama_A29F9EBB_9006_885F_41DF_33EB1A793E0D.label = 치료센터 데스크
+panorama_A2A727AA_903D_9879_41C0_E076CA2D7CE2.label = 수술센터 복도
+panorama_A2A96E79_900D_88DB_41E0_4FF2544F5D79.label = 수술센터 대기실
+panorama_A2C71E50_903E_8829_41BF_5A3E884F75C1.label = 수술센터 데스크
+panorama_A36675BD_9007_B85B_41AD_32F60AC56BE6.label = 치료센터 로비
+panorama_A659BF7E_9006_88D9_4194_161E95C5CE02.label = 로비 A
+panorama_A7C76457_901A_98D7_41CB_2F667A357D5E.label = 인포
+panorama_A9008BE0_900D_8FE9_41CA_F9F183745C33.label = 상담센터 출입구
+panorama_A911CD66_900B_88E9_41D9_91BC86DABF24.label = 로비 B-2
+panorama_A96CC806_9006_8829_419E_7393492986FC.label = 상담센터
+panorama_A9D06922_9005_8869_41C4_9CB2EAC69113.label = 검사실 2
+panorama_AA01010C_9005_9839_41C7_4B68D88CB7B0.label = 상담센터 통로2
+panorama_AA79A162_9005_98E9_41DE_D20828A3DF6A.label = 상담센터 로비
+panorama_AA7AE18A_9006_B839_41AF_70A3667F258E.label = 상담센터 데스크
+panorama_AC821B5C_903A_88D9_41E2_93FDB829721F.label = 상담센터 로비2
+panorama_ACCB1253_900D_982F_41D5_0EFF0B943941.label = 2인실
+panorama_ADA79E39_903E_885B_41BB_45AC41E416F9.label = 상담센터 통로3
+panorama_ADD1EF6A_9007_88F9_41DF_B113FBAB5689.label = 상담센터 통로4
+panorama_AFB5D056_907A_9829_41E2_10C22E2C784F.label = 1인실
+panorama_AFFD6025_B98E_1F56_41CF_DB038936EEA3.label = 피부과 통로1
+panorama_D67C0E86_9005_8829_41CE_0CA255521B07.label = 18F 통로 3
+panorama_D69D15EC_91FA_9BF9_417D_18B1230C52C4.label = 데스크
+panorama_EC11E450_8486_CECA_41D1_3C25F614A080.label = 데스크
+panorama_EC4DCAEE_8486_BBD6_41B4_14F02B316EE5.label = 피부과 수술센터
+panorama_EC66F528_8487_CE5A_41D1_4B77AFAFF41A.label = 쁘띠센터 상담실
+panorama_F6ACE05C_8786_46FA_41C2_AD10EBFE46D1.label = 가슴상담실
+panorama_FA20ED83_8C99_C979_419C_DCDAAF2637CB.label = 18F 통로 1
+panorama_FAE08C52_8C8A_CF9B_41D6_BB67A0195892.label = 복도
+photo_0883EDBD_8C8E_C88E_41A0_315E226CE88D.label = 13층 입원실type2
+photo_088972AF_8C8F_D88A_41D8_54EDC91A27D0.label = 17층 이비인후과 사진교체해주세요
+photo_08C15448_8C8A_3FF6_41AE_7B4003F67770.label = 16층 수술센터1
+photo_08C56EDC_8C86_488F_41DE_29DD0A527B9E.label = 15층 수술센터1
+photo_140712AC_8C89_D88F_41E0_B310B7614D31.label = 17층 코상담실문001
+photo_143F2276_8C9E_5B9B_41D8_E00009AC2794.label = 18층 심전도실
+photo_150007F6_8C86_389B_41DA_3306020C93E4.label = 17층 일반상담실문001
+photo_165D1BE8_8C9E_48B7_41C3_7B3AAFAEC8C2.label = 18층 초음파실2
+photo_16D7930D_8C9B_D985_41CC_992C1534BC0F.label = 14층 스킨케어
+photo_16DE1378_8C8A_3996_41CC_7B1B7D6C1208.label = 17층 윤곽상담실문001
+photo_172D5AF2_8C9A_489A_41DF_A5022A0B997D.label = 18층 대기실7
+photo_18021F86_8C8A_497B_41B1_D060F2781FF5.label = 17층 이비인후과 사진교체해주세요
+photo_197B53B5_8C86_589E_41AE_DCA6F39FDCA3.label = 16층 수술센터1
+photo_1AB5B441_8CBA_5FF9_41CA_25C6462D8022.label = 15층 수술센터1
+photo_33B512DA_2E43_700F_419C_FE74E6B950B4.label = 14층 데스크2
+photo_611D1C2C_7B8B_D2E0_41C2_08E55D8F36D6.label = 18층 대기실6
+photo_618B26B8_7B8E_5FE0_41D6_3D42A2D355C0.label = 18층 대기실4
+photo_62FD8706_7B89_BEA0_41CC_21DFC010031A.label = 윤곽상담실3
+photo_639D24F6_7BFA_B360_41B9_FAB569E85666.label = 상담실1
+photo_63F072A0_7BFA_D7E0_41DD_4D043C97F25A.label = 상담실3
+photo_6C34C856_7B86_F2A0_41DD_C6E48588B253.label = 17층 데스크2
+photo_6D4196BA_7BFB_DFE0_41D3_B829469A2428.label = 17층 대기실3
+photo_6D4B7801_7B89_B2A3_41DC_A24869676D14.label = 16층 수술센터 데스크1
+photo_6D8D2C44_7B9A_52A0_41D5_6AD5599B67FE.label = 13층 쁘띠센터 데스크
+photo_6DE3FACA_7BFA_77A0_4195_5AE21BF5DE67.label = 17층 대기실1
+photo_6E0A6098_7B99_B3A0_41CB_17CC399814FE.label = 12층 치료센터 데스크-1
+video_3414BBD0_101F_0D6D_41AF_C7A235BE0894.label = 인트로
+
+## Popup
+
+### Body
+htmlText_0824D0E4_8C8E_38BF_41D8_2F587F3CDF5E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_098A8080_8C8E_D776_41DE_9465FFFE3090.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_09AB7480_8C99_FF77_41AA_3CEFDD2BCBBC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0A18E1E9_8C8E_38B6_41C1_58C161C387FF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0A376C4B_8C8E_CF8A_41B3_890258A93C5C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0B10D647_8C9A_3BFA_41B9_656118A44D14.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0BCC0311_8C89_D996_41D6_6F326D301AC2.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0BE0EC42_8C99_CFFA_41C7_B26D28243FE3.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_10F0B1D6_8C86_589A_41D1_1957EF20C1F3.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_1CF460B0_8CBA_3897_41A9_849DFEF3DEBF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_23703DE2_8D7A_48BA_41D7_E0FF7D85F1D1.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_239551C8_8C8A_D8F6_41B8_5F68D3B1DEF1.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_24CFC9F3_3D2F_9598_41C1_5399E7F11749.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_251477C9_8CBE_D889_41DE_973A53B007EE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_2615668F_8CBA_388A_41BE_5773AB1146FF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_26AB2034_8C8A_779F_41D6_E6BF843CC379.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_2717361B_8D89_DB8A_41D3_F4BD36AA3DE4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_27410F6B_8D89_C98A_41A8_573FD846FED7.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_2C6D3CFE_8D86_488B_41DB_BEBD15B1D6E4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_340B51C9_2E42_900A_415E_7E4EC1C8401A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:9px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_4A776766_7C9B_DD60_41B2_BA1D1E03A461.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_4C5D5E01_7C86_6EA3_41D8_705CBDC4E01A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_5228F5EC_7C86_5D60_41D8_4382FF8CF43A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_523A5A50_7C86_76A0_41C9_745727DAAA7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_524DE2BF_7C86_77DF_41D9_F4541CF2BA64.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_62C1C2F9_7B8E_F763_41D6_6F9457BE6E48.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_62C6C2EA_7B8E_F760_41D8_845BFBBB31E6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_63B537EB_7B87_DD60_41DA_2C029CF7973B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_68C10BAC_7B8A_55E1_4196_AA0A7E583547.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_68C1789D_7B8A_53A0_41C9_9686DB3EACEA.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_68CE00DD_7B8A_B3A0_41C4_087E63ABB7C9.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_68DA0C0F_7B8A_72A0_41D3_A083C80303A9.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6DA96BD3_7B87_D5A0_41D4_8CD9840087FE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6DAAE4CF_7B86_53BF_41D6_38CD6A95AD01.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6DB05C59_7B86_52A3_417A_294B9FE4592B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6DB1214B_7B86_72A0_41C7_05AA585E5FFD.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6DB36999_7B86_75A0_41C2_03CA1141A825.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_6EBFF42C_7B8A_72E0_41D7_D1278BC419CA.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EA96A3E0_8779_C9CA_4193_D35307212D7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EA96B040_877A_46CA_41C5_A768D05A6112.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EAA8E701_877A_4A4B_41DB_A7B2F76D2F2A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EAE6EFA8_8779_DA59_41D4_D30E5EC087D8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EAE74BC8_8779_D9D9_416F_F4B8263D26B0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_EAE7C7DB_8779_C9FE_41C6_7177CC066357.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F6A2E983_878B_C64E_41D2_CC46C92A61B8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F75C3981_878B_C64A_41D0_4B38C4C162A0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_0080A6F8_8FBE_D896_41B2_A35339024BEB.title = 17F 상담센터 데스크
+window_023222AC_8FBA_788E_41D2_B52B6F1FDE20.title = 13F 쁘띠센터 데스크
+window_0275E473_8FB9_DF9A_41D4_487E851BBCFA.title = 18F 로비 B
+window_032EEB28_8FBE_49B6_41D9_E343AB72015B.title = 17F 상담센터 로비
+window_03D0FE2D_8FBE_4B89_41B3_DABAEFC8AD7D.title = 18F 로비 A
+window_0880786F_8C9A_7789_41DB_0B39D9BB3AF7.title = 18F 로비
+window_08E9CDCB_8C9E_4889_41C5_43BFE1270F28.title = 18F 초음파실
+window_0921A554_8C9A_399E_41D7_606227BC92D1.title = 14F 스킨케어
+window_09960EDB_8FBE_4889_41D4_7C39C537B05F.title = 17F 상담실 B
+window_0A246E63_8C86_4BB9_41DD_7E1F8C152AA7.title = 17F 상담실 A
+window_0B157586_8FBE_397A_41D5_1067F58F49C4.title = 17F 윤곽상담실
+window_0B159049_8C8F_D789_41C0_4AA99D364E4A.title = 17F 이비인후과
+window_0B8027D3_8C8B_F89A_41C5_470F1659F668.title = 17F 윤곽상담실
+window_0D4286AA_8F8A_388A_41D7_C1E2CED2DC06.title = 12F 치료센터 데스크
+window_0D5ACF09_8FBF_C989_4173_C942E3CC6EF1.title = 17F 상담센터 로비 2
+window_0DD815A4_8C8A_D8BE_4198_06EECA3D3C0D.title = 13F 1인실
+window_0F3C1C81_8FBA_CF79_41B8_ECFFF49040DF.title = 14F 피부과 데스크
+window_0F944D2D_8FBF_C98E_41CA_F3E2A8141DB7.title = 17F 상담실 A
+window_11488644_8FBE_3BFF_41DB_CD3CD882DC34.title = 16F 수술센터 데스크
+window_120EEF0F_8C86_C989_41BC_9A4D07958230.title = 15F 수술센터
+window_145244F0_8C86_F897_41D4_256F4DBBA051.title = 17F 상담센터 로비
+window_1636E680_8C8A_5B77_41C2_2A08E2EC1D6A.title = 17F 코상담실
+window_16D1A22A_8C86_3B8B_41D4_8F210BB08BC0.title = 17F 상담실
+window_16D3008E_8C9E_588A_41DA_205E27AD2E2A.title = 18F 심전도실
+window_1AAD0BB1_8C87_C899_41E0_0A164BE1F97E.title = 16F 수술센터
+window_1D13D131_8CBA_D996_41E0_9CCBD99152A4.title = 15F 수술센터
+window_1D75C6CC_8CBF_D88E_41D8_BBCF07C767BD.title = 14F 스킨케어
+window_1F9E6CC7_8CBA_48FA_41BB_BF6D482A515C.title = 13F 1인실
+window_224BF4A5_8D7A_58BE_41DD_4A2CE5B0C70E.title = 17F 윤곽상담실
+window_232184A3_8D8E_F8B9_41C0_44C5B5E5FBAB.title = 18F 초음파실
+window_23604734_8D8E_799E_41D8_A6E8FA171A0A.title = 18F 심전도실
+window_2377CDE2_8D7A_48BA_41DA_0FF7B2DFA063.title = 17F 이비인후과
+window_243D116B_8D89_F989_41B3_7BDAADADF732.title = 18F 로비
+window_251407C9_8CBE_D889_41C3_C0ADDC213A42.title = 14F 피부과 데스크
+window_253B436B_8D7E_F98A_41DF_A441587DF1FF.title = 17F 코상담실
+window_2C6C2D03_8D86_4979_41C5_610E3965929F.title = 18F 로비 A
+window_876F834B_9007_84FB_41D8_C180DC36EC92.title = 16F 수술센터
+window_88474ECB_9005_9DFB_41DB_C3CD939A84B4.title = 17F 상담실
+window_EF571F0F_877B_BA56_41C3_2A8FB569DF0A.title = 12F 치료센터 데스크
+window_F20A9688_8786_CA59_41BB_FD4E88CAF647.title = 16F 수술센터 데스크
+window_F222FC95_879B_FE4A_41DC_F1FBE11B0764.title = 17F 상담센터 데스크
+window_F2362BCC_8799_D9D9_41DA_7D6952A213B9.title = 17F 상담센터 로비
+window_F2615ED5_8786_BBCA_41DA_4A5C19F78BCF.title = 17F 상담실 B
+window_F35954F5_878A_4FCA_41DC_E18750EE392C.title = 13F 쁘띠센터 데스크
+window_F4DC036D_8786_CADA_41DC_302C07334F20.title = 17F 윤곽상담실
+window_F807B9E1_878E_D9CA_41CA_4F5D1451824A.title = 18F 로비 B
+
+## Action
+
+### URL
+LinkBehaviour_0E063AC9_3852_5ECC_4171_743F451ABB5B.source = http://www.k-wonjin.co.kr/hospitalinfo/location.asp
+LinkBehaviour_36303C00_285C_2F8D_41C1_3080404548D0.source = https://wonjinbeauty.com
+LinkBehaviour_766BDB80_34EA_D8D5_418C_22A0D29AD6C8.source = http://www.k-wonjin.co.kr/hospitalinfo/location.asp
+LinkBehaviour_7675CB73_34EA_D83B_41C7_56A0B5A4E3A4.source = https://wonjinbeauty.com

@@ -1,0 +1,30 @@
+@font-face {
+   font-family: "Noto Serif CJK KR SemiBold";
+   src: url("fonts/Noto Serif CJK KR SemiBold.woff") format("woff"), url("fonts/Noto Serif CJK KR SemiBold.eot") format("embedded-opentype"), url("fonts/Noto Serif CJK KR SemiBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Noto Serif CJK KR ExtraLight";
+   src: url("fonts/Noto Serif CJK KR ExtraLight.woff") format("woff"), url("fonts/Noto Serif CJK KR ExtraLight.eot") format("embedded-opentype"), url("fonts/Noto Serif CJK KR ExtraLight.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Noto Serif CJK KR Black";
+   src: url("fonts/Noto Serif CJK KR Black.woff") format("woff"), url("fonts/Noto Serif CJK KR Black.eot") format("embedded-opentype"), url("fonts/Noto Serif CJK KR Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Bk";
+   src: url("fonts/Roboto Black.woff") format("woff"), url("fonts/Roboto Black.eot") format("embedded-opentype"), url("fonts/Roboto Black.ttf") format("truetype"), url("fonts/Roboto Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Bk";
+   src: url("fonts/Roboto Black Italic.woff") format("woff"), url("fonts/Roboto Black Italic.eot") format("embedded-opentype"), url("fonts/Roboto Black Italic.ttf") format("truetype"), url("fonts/Roboto Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
